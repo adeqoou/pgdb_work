@@ -21,7 +21,7 @@ https://www.postgresql.org/download/
 
 ![Снимок экрана (12)](https://github.com/adeqoou/pgdb_work/assets/116428584/5639b8b7-83e5-428e-8b45-7834c5c70bf2)
 
-4. После успешной установки pgadmin4, запуска и ввода пароля у вас появится такое окошко, щелкните правой кнопкой мыши по обьекту 'database',
+4. После успешной установки pgadmin4, запуска и ввода пароля у вас появится такое окошко, щелкните правой кнопкой мыши по обьекту 'Databases',
 затем 'create' > 'database'.
 
 ![Снимок экрана (15)](https://github.com/adeqoou/pgdb_work/assets/116428584/a39e94ce-21c6-41d0-92ca-66dea4bf71aa)
