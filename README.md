@@ -56,7 +56,8 @@ MacOS: Option+Shift+V
 
 Linux: Super+Shift+V
 
-Либо же воспользуйтесь object explorer в правом верхнем углу (выполняет те же самые функции)
+Либо же воспользуйтесь object explorer в левом верхнем углу (выполняет те же самые функции)
+
 ![Снимок экрана (20)](https://github.com/adeqoou/pgdb_work/assets/116428584/e6321a72-7205-416f-807a-e5af70bf1f2a)
 
 
