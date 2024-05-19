@@ -21,7 +21,7 @@ WHERE id IN (SELECT DISTINCT user_id
 			 BETWEEN '2024-04-01' AND '2024-04-07');
  
 
--- 5. Вывод списка товаров, которые не были проданы за определенный период
+-- 5. Вывод списка товаров, которые не были заказаны за определенный период
 	SELECT * FROM Product 
 	WHERE id NOT IN(SELECT product_id 
 					FROM OrderDetails
