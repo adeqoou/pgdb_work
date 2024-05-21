@@ -4,8 +4,8 @@ DO $$
 DECLARE
   total_price NUMERIC(10, 2) := 0; -- Общая сумма заказа
   product_count INTEGER := 0; -- Количество товаров в заказе
-  user_role TEXT := 'user'; -- Роль пользователя
-  rating INTEGER := 5; -- Рейтинг товара
+  user_role VARCHAR(50) := 'user'; -- Роль пользователя
+  rating FLOAT := 4.5; -- Рейтинг товара
   comment TEXT := 'Отличный товар!'; -- Комментарий к товару
   user_id INTEGER := 2; -- id пользователя
   product_id INTEGER := 2; -- id товара
